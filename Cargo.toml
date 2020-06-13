@@ -1,7 +1,7 @@
 [package]
 name = "most_used_functions"
 version = "0.1.0"
-authors = ["badar343 <66517064+badar343@users.noreply.github.com>"]
+authors = ["https://github.com/badar343/most_used_functions.git"]
 edition = "2018"
 repository = "https://github.com/badar343/most_used_functions"
 homepage = "https://github.com/badar343/most_used_functions"
