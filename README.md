@@ -1,9 +1,9 @@
-# First Welcome
+# most_used_functions
 this is a demo rust library published on crates.io
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-`firstwelcome = "0.1.0"`
+`most_used_functions = "0.1.0"`
 
 your cargo.toml file should look like this:
 ```
