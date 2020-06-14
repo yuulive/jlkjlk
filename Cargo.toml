@@ -1,6 +1,6 @@
 [package]
 name = "most_used_functions"
-version = "0.1.1"
+version = "0.1.0"
 authors = ["https://github.com/badar343/most_used_functions.git"]
 edition = "2018"
 repository = "https://github.com/badar343/most_used_functions"
