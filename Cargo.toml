@@ -1,10 +1,10 @@
 [package]
-name = "most_used_functions"
+name = "uh"
 version = "0.1.0"
-authors = ["https://github.com/badar343/most_used_functions.git"]
+authors = ["https://github.com/yuulive/uh.git"]
 edition = "2018"
-repository = "https://github.com/badar343/most_used_functions"
-homepage = "https://github.com/badar343/most_used_functions"
+repository = "https://github.com/yuulive/uh"
+homepage = "https://github.com/yuulive/uh"
 license = "MIT/Apache-2.0"
 readme = "README.md"
 description = "Library for most used fuctions such as input , mathematical operations."

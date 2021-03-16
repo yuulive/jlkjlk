@@ -1,28 +1,28 @@
-# most_used_functions
-this is a demo rust library published on crates.io
+# uh
+The uh library provides functions and mathematical input operations
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-`most_used_functions = "0.1.0"`
+`uh = "0.1.0"`
 
 your cargo.toml file should look like this:
 ```
 [package]
-name = "most_used_functions"
+name = "uh"
 version = "0.1.0"
 authors = ["badar343 <66517064+badar343@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
-most_used_functions = "0.1.0"
+uh = "0.1.0"
 ```
 
 In `src/main.rs` you can use like this:
 
 ```
 //for input
-use most_used_functions;
-use most_used_functions::get_input;
+use uh;
+use uh::get_input;
 fn main() {
 	let input = get_input::take_input();
 }
@@ -30,7 +30,7 @@ fn main() {
 following will also work:
 ```
 //for calculatios. x , y should integer
-use most_used_functions::calculate;
+use uh::calculate;
 fn main() {
 	calculate::add(x , y);        //for addition of two numbers
 	calculate::subtract(x , y);   //for sutraction of two numbers
